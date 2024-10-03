@@ -464,12 +464,6 @@ WHERE isbn = '978-0-553-29698-2'
 
 ```
 
-
-
-
-
-
-
 ## Reports
 
 - **Database Schema**: Detailed table structures and relationships.
@@ -479,6 +473,11 @@ WHERE isbn = '978-0-553-29698-2'
 ## Conclusion
 
 This project demonstrates the application of SQL skills in creating and managing a library management system. It includes database setup, data manipulation, and advanced querying, providing a solid foundation for data management and analysis.
+
+This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
+
+- **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/prashanth-bantu-560362228/)
+
 
 
 
